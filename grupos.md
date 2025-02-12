@@ -19,6 +19,3 @@ Cada stakeholder influye de manera diferente en la estrategia sostenible de una 
 - **Incentivos de los inversionistas**: Empresas con prácticas sostenibles suelen ser más atractivas para inversionistas interesados en modelos de negocio a largo plazo.  
 - **Regulación gubernamental**: El cumplimiento de leyes ambientales y sociales obliga a las empresas a desarrollar estrategias de sostenibilidad.  
 - **Impacto en la comunidad**: Las organizaciones deben garantizar que sus operaciones no afecten negativamente a su entorno social y ambiental.  
-
-### **Conclusión**  
-Los grupos de interés desempeñan un papel fundamental en la sostenibilidad empresarial. Su influencia impulsa a las empresas a adoptar prácticas responsables, no solo para cumplir con regulaciones, sino también para fortalecer su reputación, competitividad y éxito a largo plazo.
