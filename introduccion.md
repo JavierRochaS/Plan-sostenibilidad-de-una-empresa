@@ -19,5 +19,4 @@ La sostenibilidad no solo es un compromiso con el medio ambiente, sino también 
 
 - **Reputación empresarial**: Implementar prácticas sostenibles fortalece la imagen de la empresa ante consumidores, empleados y socios estratégicos. Una buena reputación puede traducirse en mayor lealtad de clientes y mejor posicionamiento en el mercado.  
 
-### **Conclusión**  
-El análisis de sostenibilidad permite a las empresas identificar oportunidades para mejorar su impacto ambiental y social, al tiempo que fortalece su rentabilidad y reputación. Un plan de sostenibilidad bien estructurado no solo es una responsabilidad corporativa, sino una ventaja competitiva en un mundo donde la conciencia ecológica y social es cada vez más relevante.
+
