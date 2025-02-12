@@ -1,4 +1,4 @@
 ### **Conclusiones**  
 1. El análisis de sostenibilidad permite a las empresas identificar oportunidades para mejorar su impacto ambiental y social, al tiempo que fortalece su rentabilidad y reputación. Un plan de sostenibilidad bien estructurado no solo es una responsabilidad corporativa, sino una ventaja competitiva en un mundo donde la conciencia ecológica y social es cada vez más relevante.
 2. Los grupos de interés desempeñan un papel fundamental en la sostenibilidad empresarial. Su influencia impulsa a las empresas a adoptar prácticas responsables, no solo para cumplir con regulaciones, sino también para fortalecer su reputación, competitividad y éxito a largo plazo.
-3. 
+3. Las acciones sostenibles y su medición son esenciales para que las empresas no solo mejoren su desempeño ambiental, social y de gobernanza, sino que también demuestren su compromiso con el desarrollo sostenible. Mediante la implementación de KPIs claros, las organizaciones pueden evaluar su progreso y ajustarse según sea necesario, asegurando que sus acciones tengan un impacto real y positivo.
