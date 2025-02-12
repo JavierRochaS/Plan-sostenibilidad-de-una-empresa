@@ -46,5 +46,3 @@ La medición es esencial para evaluar el impacto de las acciones sostenibles. Al
 - **Impacto social**: Medición del impacto de las iniciativas de responsabilidad social empresarial (RSE), como el **número de horas de voluntariado** o el **inversión en proyectos sociales**.  
 - **Transparencia y ética**: Evaluación del número de **denuncias de corrupción** o casos de **fraude** en la empresa.  
 
-### **Conclusión**  
-Las acciones sostenibles y su medición son esenciales para que las empresas no solo mejoren su desempeño ambiental, social y de gobernanza, sino que también demuestren su compromiso con el desarrollo sostenible. Mediante la implementación de KPIs claros, las organizaciones pueden evaluar su progreso y ajustarse según sea necesario, asegurando que sus acciones tengan un impacto real y positivo.
