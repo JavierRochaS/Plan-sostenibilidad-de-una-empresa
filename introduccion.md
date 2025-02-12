@@ -1,5 +1,6 @@
 
 ### **Introducción al Análisis de Sostenibilidad**  
+![analisis](img/analisis.jpg)
 
 En la actualidad, la sostenibilidad se ha convertido en un factor clave para el éxito y la responsabilidad social de las empresas. Adoptar prácticas sostenibles no solo ayuda a reducir el impacto ambiental, sino que también mejora la eficiencia operativa, la rentabilidad y la percepción de la marca en el mercado.  
 
