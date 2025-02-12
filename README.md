@@ -5,7 +5,7 @@
 3. [Aspectos ASG materiales (Ambientales, Sociales y de Gobernanza)](aspectos.md)
 
 ---
-![introduccion](img/introduccion.jpg)
+![introduccion](img/introduccion.webp)
 ---
 [Conclusiones](conclusiones.md)
 
